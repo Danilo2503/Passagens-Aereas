@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.exe
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.deps.json
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.runtimeconfig.json
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.dll
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.pdb
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.dll
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.pdb
+D:\Desktop\Projetos SENAI\C#\Passagens aéreas\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.genruntimeconfig.cache
